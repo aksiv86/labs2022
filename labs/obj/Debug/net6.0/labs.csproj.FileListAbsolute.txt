@@ -1,0 +1,15 @@
+C:\study\ООП\labs\labs\bin\Debug\net6.0\labs.exe
+C:\study\ООП\labs\labs\bin\Debug\net6.0\labs.deps.json
+C:\study\ООП\labs\labs\bin\Debug\net6.0\labs.runtimeconfig.json
+C:\study\ООП\labs\labs\bin\Debug\net6.0\labs.dll
+C:\study\ООП\labs\labs\bin\Debug\net6.0\labs.pdb
+C:\study\ООП\labs\labs\obj\Debug\net6.0\labs.csproj.AssemblyReference.cache
+C:\study\ООП\labs\labs\obj\Debug\net6.0\labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\ООП\labs\labs\obj\Debug\net6.0\labs.AssemblyInfoInputs.cache
+C:\study\ООП\labs\labs\obj\Debug\net6.0\labs.AssemblyInfo.cs
+C:\study\ООП\labs\labs\obj\Debug\net6.0\labs.csproj.CoreCompileInputs.cache
+C:\study\ООП\labs\labs\obj\Debug\net6.0\labs.dll
+C:\study\ООП\labs\labs\obj\Debug\net6.0\refint\labs.dll
+C:\study\ООП\labs\labs\obj\Debug\net6.0\labs.pdb
+C:\study\ООП\labs\labs\obj\Debug\net6.0\labs.genruntimeconfig.cache
+C:\study\ООП\labs\labs\obj\Debug\net6.0\ref\labs.dll
